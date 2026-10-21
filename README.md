@@ -1,2 +1,2 @@
-# data-analyst-portfolio
-data analyst projects
+# sales-data-analysis
+Sales Data Analysis using Excel
